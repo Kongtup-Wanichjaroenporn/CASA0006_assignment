@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Ignore Big Geography Files
-**/geography/
+**/large_data/
 
 # Distribution / packaging
 .Python
